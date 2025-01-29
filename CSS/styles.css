@@ -10,7 +10,7 @@ aside::first-line {font-weight: bold;}
 p {font-size: 16px; text-align: justify; padding-left: 100px; padding-right: 100px;
     background-image:url('images/WidgetCoLogo.gif'); background-repeat: no-repeat; padding-bottom: 10px;}
 footer {float: right; border-top: 1px solid; color: grey;}
-footera:link {color: grey;}
+footer a:link {color: grey;}
 h1 {font-size: 60px; padding-right: 50px;}
 h2 {font-style: italic; text-align: center; padding-left: 40px; font-size: 19px; 
     padding-top: 0px;padding-right: 40px;}
