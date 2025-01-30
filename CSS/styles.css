@@ -1,12 +1,12 @@
 body {padding: 20px; background-image: url("images/WidgetCoLogo.gif"); background-repeat: no-repeat;
 background-position: center; background-attachment: fixed;}
-section {padding: 5px; padding-left: 15px; border: 2px solid green; 
-    border-left: 20px solid green; text-align: justify; font-size: 15px;
+section {padding: 5px; padding-left: 15px; border: 2px solid rgb(16, 142, 151); 
+    border-left: 20px solid rgb(16, 142, 151); text-align: justify; font-size: 15px;
     position:center;}
 header {text-align: center; font-size: 15px; border-top: 1px solid rgb(0, 0, 0) ;
      border-left:white; border-right: solid 15px; border-bottom: 1px solid rgb(0, 0, 0);}
 aside {float: right; font-size: 15px; text-align: right; padding-left: 100px; padding-right: 10px;
-    border-right: 15px solid rgb(103, 97, 109);}
+    border-right: 15px solid rgb(16, 142, 151);}
 aside::first-line {font-weight: bold;}
 p {font-size: 16px; text-align: justify; padding-left: 100px; padding-right: 100px;
      padding-bottom: 10px;}
