@@ -1,4 +1,5 @@
-body {padding: 20px;}
+body {padding: 20px; background-image: url("images/WidgetCoLogo.gif"); background-repeat: no-repeat;
+background-position: center; background-attachment: fixed;}
 section {padding: 5px; padding-left: 15px; border: 2px solid green; 
     border-left: 20px solid green; text-align: justify; font-size: 15px;
     position:center;}
@@ -8,7 +9,7 @@ aside {float: right; font-size: 15px; text-align: right; padding-left: 100px; pa
     border-right: 15px solid rgb(103, 97, 109);}
 aside::first-line {font-weight: bold;}
 p {font-size: 16px; text-align: justify; padding-left: 100px; padding-right: 100px;
-    background-image:url('images/WidgetCoLogo.gif'); background-repeat: no-repeat; padding-bottom: 10px;}
+     padding-bottom: 10px;}
 footer {float: right; border-top: 1px solid; color: grey;}
 footer a:link {color: grey;}
 h1 {font-size: 60px; padding-right: 50px;}
