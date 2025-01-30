@@ -3,7 +3,7 @@ background-position: center; background-attachment: fixed;}
 section {padding: 5px; padding-left: 15px; border: 2px solid rgb(16, 142, 151); 
     border-left: 20px solid rgb(16, 142, 151); text-align: justify; font-size: 15px;
     position:center;}
-header {text-align: center; font-size: 15px; border-top: 1px solid rgb(0, 0, 0) ;
+header {text-align: center; font-size: 15px; font-weight: bold; border-top: 1px solid rgb(0, 0, 0) ;
      border-left:white; border-right: solid 15px; border-bottom: 1px solid rgb(0, 0, 0);}
 aside {float: right; font-size: 15px; text-align: right; padding-left: 100px; padding-right: 10px;
     border-right: 15px solid rgb(16, 142, 151);}
